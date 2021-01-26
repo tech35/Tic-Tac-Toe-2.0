@@ -8,5 +8,7 @@ Tic Tac Toe Made in Python
 This is a very simple version of Tic Tac Toe that was made in Python.
 
 
+Please Follow Me. I Upload New Code Every Saturday
+
 
 Libraries Used: Tkinter
