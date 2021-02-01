@@ -12,8 +12,8 @@ Please Support Me By Following. I Upload New Code Consistently
 
 This is the second version of the Tic Tac Toe in Python.
 
-Find the first version here: https://github.com/Bilawal-Asghar/Tic-Tac-Toe-1.0
+Find the first version [here.](https://github.com/Bilawal-Asghar/Tic-Tac-Toe-1.0)
 
-Find the rest of my repositories here: https://github.com/Bilawal-Asghar?tab=repositories
+Find the rest of my repositories [here.](https://github.com/Bilawal-Asghar?tab=repositories)
 
 Libraries Used: Tkinter
